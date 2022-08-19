@@ -165,7 +165,7 @@ input.submit{
 /** Formatando imagens **/
 
 img.imagem-principal {
-	width: 98%
+	width: 98%;
 	border: 3px solid #dfdfdf;
 }
 
